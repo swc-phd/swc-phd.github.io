@@ -2,3 +2,5 @@ name: SWC PhD
 description: Website for the SWC PhD programme
 github: jessegeerts
 twitter: jpgeerts
+
+theme: jekyll-theme-minimal
