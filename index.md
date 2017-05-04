@@ -2,6 +2,11 @@
 
 Welcome to the website of the [Sainsbury Wellcome Centre](http://www.ucl.ac.uk/swc) PhD programme. Here we will host info about the first-year taught courses, as well as updates about the programme and other neuro-events at the SWC.
 
+```python
+def function(arg):
+   return arg**2
+```
+
 <ul>
   {% for post in site.posts %}
     <li>
