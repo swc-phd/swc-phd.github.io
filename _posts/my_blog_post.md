@@ -1,1 +1,4 @@
-## First blog post
+---
+layout: post
+title: My first post
+---
